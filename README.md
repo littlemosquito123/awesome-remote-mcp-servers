@@ -1653,6 +1653,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   
   [![Regime MCP connector](https://glama.ai/mcp/connectors/xyz.regimetoken/regime/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.regimetoken/regime)
   🔓 - Checks crypto trading claims on real price history: leverage liquidations, drawdown, DCA, stop-loss, seasonality.
+- [ReportGem 报告驿站](https://www.reportgem.com/mcp.html) `https://www.reportgem.com/mcp`
+  [![ReportGem MCP connector](https://glama.ai/mcp/connectors/com.reportgem/report-gem-global-research/badges/score.svg)](https://glama.ai/mcp/connectors/com.reportgem/report-gem-global-research)
+  🔐 - Search 16M+ global investment bank reports, filings, earnings-call notes and charts; read cited source passages.
+
 - [RevExOS](https://revexos.com/mcp) `https://revexos.com/api/mcp`
   [![RevExOS MCP connector](https://glama.ai/mcp/connectors/com.revexos/revexos/badges/score.svg)](https://glama.ai/mcp/connectors/com.revexos/revexos)
   🔓 - Quote-to-cash tools: parse invoices and POs, 3-way match, proration, revenue schedules, dunning emails.
